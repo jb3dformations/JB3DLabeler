@@ -144,7 +144,7 @@ I hope it makes your own Blender projects a little easier.
 <p align="center">
   <img src="BlenderBook2.png"
        alt="Livre Blender - Éditions ENI"
-       width="380">
+       width="580">
 </p>
 
 ### Blender — Créez vos scènes 3D de A à Z
