@@ -14,6 +14,14 @@ The goal is simple: **spend less time setting up labels and more time creating g
 
 ---
 
+## Video Tutorial
+
+Watch JB3D Labeler in action and learn how to create realistic product labels in Blender.
+
+[▶ Watch the JB3D Labeler video tutorial](https://extensions.blender.org/media/videos/cd/cd4148cecafb04d70899ead8ae9c060838c0c8f2d1d1e5bb5e64bd7328a6603a.mp4)
+
+---
+
 ## What can you do with JB3D Labeler?
 
 ### Standard Labels
