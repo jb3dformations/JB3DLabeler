@@ -20,7 +20,7 @@ The goal is simple: **spend less time setting up labels and more time creating g
 <p>Watch JB3D Labeler in action.</p>
 
 <a href="https://extensions.blender.org/media/videos/cd/cd4148cecafb04d70899ead8ae9c060838c0c8f2d1d1e5bb5e64bd7328a6603a.mp4">
-  <img src="tutorial-preview.png" alt="Watch the JB3D Labeler video tutorial" width="700">
+  <img src="tutorial-preview.webp" alt="Watch the JB3D Labeler video tutorial" width="700">
 </a>
 
 
