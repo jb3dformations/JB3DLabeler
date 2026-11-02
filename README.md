@@ -142,7 +142,7 @@ I hope it makes your own Blender projects a little easier.
 
 ## Pour aller plus loin avec Blender
 <p align="center">
-  <img src="BlenderBook.png"
+  <img src="BlenderBook2.png"
        alt="Livre Blender - Éditions ENI"
        width="180">
 </p>
