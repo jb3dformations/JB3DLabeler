@@ -161,7 +161,7 @@ I hope it makes your own Blender projects a little easier.
 
 ### Blender — Créez vos scènes 3D de A à Z
 
-**Un livre de Josselin Boullery, publié aux Éditions ENI.**
+**Un livre publié aux Éditions ENI.**
 
 Vous utilisez JB3D Labeler et vous aimeriez approfondir votre maîtrise de Blender ?
 
