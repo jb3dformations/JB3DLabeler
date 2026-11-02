@@ -1,3 +1,5 @@
+![Démonstration JB3D Labeler](demo-labeler.png)
+
 # JB3D Labeler
 
 **Create realistic product labels and 360° wraps in Blender. Easily, precisely, and non-destructively.**
